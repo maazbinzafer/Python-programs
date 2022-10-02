@@ -1,7 +1,7 @@
 # Python-programs
 
-Matplotlib is the most common charting package.
+- Matplotlib is the most common charting package.
 
-Altair is a declarative visualization library for creating interactive visualizations in Python.
+- Altair is a declarative visualization library for creating interactive visualizations in Python.
 
-Please have a look.
+- Please have a look.
